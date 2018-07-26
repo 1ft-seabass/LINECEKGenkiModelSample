@@ -1,0 +1,9 @@
+[INTENT SLOT]
+Genki	GenkiSlot
+
+[INTENT EXPRESSION]
+<Genki>元気</Genki>ー？
+<Genki>げんき</Genki>ですか？
+<Genki>元気</Genki>かな
+<Genki>元気</Genki>？
+<Genki>元気</Genki>ですか
