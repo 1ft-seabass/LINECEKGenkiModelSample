@@ -1,0 +1,2 @@
+# LINECEKGenkiModelSample
+LINECEKGenkiModelSample
